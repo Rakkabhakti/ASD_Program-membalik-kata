@@ -8,11 +8,12 @@ int main() {
   stack<string> s;
 	int i,j,x,q,k,l;
 	string o,h;
+
+
+	for (k=0;k>=0;k++){
 	x=0;
 	j=0;
 	k=0;
-
-	for (k=0;k>=0;k++){
 	    	cout <<"\n";
 	    cout<< " pilih menu "<<endl; cout<<" A. Terjemahkan bahasa"<<endl;cout << " B. selesai"<<endl;
 	    cout << "Masukkan pilihan [A/B]  :   ";
